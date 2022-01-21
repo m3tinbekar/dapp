@@ -24,9 +24,10 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Metamask configuration
-
+```
 Network Name: Avalanche FUJI C-Chain
 New RPC URL: https://api.avax-test.network/ext/bc/C/rpc
 ChainID: 43113
 Symbol: AVAX
 Explorer: https://testnet.snowtrace.io/
+```
