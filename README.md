@@ -31,3 +31,7 @@ ChainID: 43113
 Symbol: AVAX
 Explorer: https://testnet.snowtrace.io/
 ```
+### AVAX COIN
+```
+https://faucet.avax-test.network/
+```
