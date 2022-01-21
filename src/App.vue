@@ -186,6 +186,6 @@ export default {
   
 }
 body {
-  background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+  background-color: #2c3e50!important;
 }
 </style>
